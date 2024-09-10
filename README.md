@@ -26,6 +26,16 @@ Once installed and enabled, navigate to the Nextcloud admin settings. You'll fin
 # Requirements
 Nextcloud 22 or later
 
+# Next steps
+1. Finalize Development
+1. Testing
+1. Documentation
+1. User Documentation
+1. Localization/Translations
+1. Confirm Licensing according to Nextcloud
+1. Release Packaging
+1. Publishing and Submitting to the Nextcloud App Store
+
 # Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
