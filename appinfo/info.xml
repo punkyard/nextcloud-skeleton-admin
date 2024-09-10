@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>skeleton_management</id>
+    <name>Skeleton Management</name>
+    <version>1.1.0</version>
+    <description>Manage the skeleton folder content</description>
+    <namespace>SkeletonManagement</namespace>
+    <dependencies>
+        <nextcloud min-version="22" max-version="23" />
+    </dependencies>
+    <settings>
+        <admin>OCA\SkeletonManagement\Settings\Admin</admin>
+    </settings>
+</info>
