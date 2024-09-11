@@ -3,31 +3,37 @@
       |=|
      __|__
 # skeleton-admin
-an visual interface for Nextcloud admins to see and modify the content of the 'skeleton' folder
+### a visual interface for Nextcloud admins to see and modify the content of the 'skeleton' folder
 
 # 🚧 Early Development Stage 🚧
-Note: This plugin is currently in an early stage of development. Features may be incomplete, and significant changes might occur. Use with caution in production environments.
+### Note: This plugin is currently in an early stage of development. 
+Features may be incomplete, and significant changes might occur. 
+**Do not use in production environments**
 
 # About
-Skeleton Admin is a Nextcloud plugin that allows administrators to manage the content of the skeleton folder directly from the Nextcloud admin interface. This plugin simplifies the process of customizing the default files and folders for new user accounts.
+Skeleton-Admin is a Nextcloud plugin that allows administrators to see and manage the content of the ***skeleton folder*** directly from the Nextcloud admin interface.
+This plugin simplifies the process of customizing the default files and folders for new user accounts.
 
 # Features
-View the contents of the skeleton folder
-Upload new files to the skeleton folder
-Delete existing files from the skeleton folder
-Real-time logging of actions
-Installation
-Download the latest release from the GitHub repository.
-Extract the archive and place the skeleton-admin folder in your Nextcloud apps directory.
-Enable the app through the Nextcloud admin interface.
-Usage
-Once installed and enabled, navigate to the Nextcloud admin settings. You'll find a new section called "Skeleton Management" under the "Additional" settings category.
+- View the contents of the skeleton folder
+- Upload new files to the skeleton folder
+- Delete existing files from the skeleton folder
+- Real-time logging of actions
+
+# Installation steps ***when ready***
+1. Download the latest release from the GitHub repository
+1. Extract the archive and place the skeleton-admin folder in your Nextcloud apps directory
+1. Enable the app through the Nextcloud admin interface
+
+# Usage ***when ready***
+Once installed and enabled, navigate to the Nextcloud admin settings. You'll find a new section called ***Skeleton Admin*** under the ***Additional settings*** category.
 
 # Requirements
 Nextcloud 22 or later
 
 # Next steps
 1. Finalize Development
+1. Bring Skeleton Admin right into the admin left panel
 1. Testing
 1. Documentation
 1. User Documentation
